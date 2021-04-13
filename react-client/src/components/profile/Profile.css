@@ -1,0 +1,20 @@
+#profile {
+    margin-top: 100px;
+    width: 900px;
+    position: relative;
+    left: 300px;
+}
+
+#nearestUser .card{
+    width: 900px!important;
+}
+
+.profilePic{
+    height: 250px;
+    width: 250px;
+}
+
+.nearestUserImg{
+    height: 100px;
+    width: 150px;
+}

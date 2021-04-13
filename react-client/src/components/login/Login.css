@@ -1,0 +1,9 @@
+#loginForm{
+    margin-top: 150px!important;
+}
+
+#loginForm #loginBg img{
+    height: 450px;
+    width: 500px;
+    margin-top: -30px;
+}
